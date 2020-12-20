@@ -5,6 +5,7 @@ You can ping multiple servers that you want to check.
 ## Dependency
 windows 10  
 windows 7  
+batch script (.cmd)
 
 ## SetUp
 
